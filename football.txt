@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>Football</title>
+<style>
+body{
+background-color:#29424d;
+}
+a{
+font-size: 250%;
+color: burlywood;}
+h1{
+background-color: #3f3a6c;
+color: #8fa3d1;
+font-size: 371%;
+padding: 20px;
+}
+p{
+background-color: #09102a;
+color: #354aba;
+font-size: 318%;
+}
+img{
+height: 436px;
+width: 700px;
+float: left;
+}
+</style>
+  </head>
+
+    <body>
+<h1>About football</h1>
+<img src="fb.png">
+<p>Football is the world famous game.I like <strong>Real madrid </strong>football team in club level football
+ and <strong>England</strong> in country level.I was also the captain of my collage football team.</p>
+<a href="../link.html">Home</a>
+    </body>
+</html>

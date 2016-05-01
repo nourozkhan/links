@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>Countries</title>
+<style>
+body
+{
+background-color:#29424d;
+}
+a
+{
+font-size: 250%;
+color: burlywood;
+}
+h1{
+background-color: #3f3a6c;
+color: #8fa3d1;
+font-size: 371%;
+padding: 20px;
+}
+p{
+background-color: #09102a;
+color: #354aba;
+font-size: 318%;
+}
+table{
+background-color: #0b0b39;
+border: 10px;
+padding: 122px;
+font-size: 434%;
+color: beige;
+border-color: aqua;
+}
+</style>
+  </head>
+
+    <body>
+<h1>WORLD COUNTRIES</h1>
+<p>There are 649 countries in the world.<br>
+Every country have there owen flags for identification.<br>
+Some famous countries of the world.<br> </p>
+<table>
+<tr><th>COUNTRY NAME</th><th>CAPITAL CITY</th></tr>
+<tr><td>Pakistan</td><td>Karachi</td></tr>
+<tr><td>England</td><td>London</td></tr>
+<tr><td>France</td><td>Paris</td></tr>
+<tr><td>America</td><td>New york</td></tr>
+<tr><td>Japan</td><td>Tokyo</td></tr>
+
+</table>
+<a href="../link.html">Home</a>
+
+    </body>
+</html>

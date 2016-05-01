@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+body{background-color:#230f4a;}
+a{font-size:200%;}
+h1{
+color: #2e2d4a;
+background-color: #a8a6a6;
+padding: 25px 20px 21px 22px;
+margin: -8px -8px 8px -8px;
+font-size: 423%;
+text-align: center;
+padding-right: 774px;
+}
+h2{
+color: #0dae86;
+background-color: #45456f;
+padding: 20px 48px 20px 20px;
+margin: -8px -8px 8px -8px;
+font-size: 450%;
+text-align: center;
+
+}
+img{
+height: 125px;
+padding: 20px 0px 23px 20px;
+margin: -28px -8px -48px -28px;
+float: right;
+}
+h3
+{background-color:grey;
+color:#25244e;
+font-size:200%;
+padding:30px;
+}
+      </style>
+                                                   <title>About Links </title>
+
+  </head>
+
+                       <body>
+
+             <h1 id="top" >ABOUT LINKS </h1>
+             <img src="id-pic.jpg"> 
+              <h2>NOUROZ KHAN</h2>
+          <h3>LINKING TO THE SPECIFIC PART OF THE SAME PAGE </h3>
+<ol>
+<li><a href="#a">Linking to other sites</a></li>
+<li><a href="#c">Linking to other pages</a></li>
+<li><a href="#d">Linking to Email address</a></li>
+<li><a href="#e">Linking to new window</a></li>
+<li><a href="#f">Linking to child folder</a></li>
+</ol>
+
+          <h3 id="a">LINKING TO OTHER SITES</h3>
+<ul>
+
+<li><a href="https://www.youtube.com">Youtube</a></li>
+<li><a href="https://www.google.com">Google</a></li>
+
+</ul>
+         <h3 id="c">LINKING TO THE OTHER PAGES ON THE SAME SITE</h3>
+<ul>
+<li><a href="cv.html">About me</a></li>
+<li><a href="contact.html">Contact me</a></li>
+<li><a href="poem.html">my poem</a></li>
+</ul>
+          <h3 id="d">LINKING TO EMAIL ADDRESS</h3>
+<ul>
+<li><a href="milto:nouroz.khan1.nk@gmail.com">Email</a></li>
+</ul>
+          <h3 id="e">OPENING THE NEW WINDOW</h3>
+<ul>
+<li><a href="http://www.w3school.com" target="_blank"> W3 school</a></li>
+</ul>                                        
+           <h3 id="f">LINKING TO CHILD FOLDER</h3>  
+<ul>
+<li><a href="cities/cities.html">Cities</a></li>
+<li><a href="countries/countries.html">countries</a></li>
+<li><a href="football/football.html">football</a></li>
+</ul>       
+<a href="#top">TOP</a>            
+
+                       </body>
+
+
+</html>

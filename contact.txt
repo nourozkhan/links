@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>contact me</title>
+<style>
+h1{
+background-color:grey;
+color:black;
+font-size:300%;
+}
+</style>
+
+  </head>
+
+    <body>
+<h1>COntact Me</h1>
+<address>
+<p>
+<ul>
+<li>Email Address:nouroz@gmail.com</li>
+<li>Phone no.:03343668761</li>
+<li>H#360-361 asu village malir city karachi</li>
+</ul>
+</p>
+</address>
+    </body>
+</html>
